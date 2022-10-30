@@ -1,0 +1,11 @@
+.imageEle{
+    width: 18vh;
+    border-radius: 80px;
+}
+.divEle2{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
